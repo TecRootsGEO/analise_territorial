@@ -99,6 +99,15 @@ Essas regras definem como a IA deve se comportar em todos os projetos, ambientes
 
 ---
 
+## 11. Limitações Rigorosas de Controle de Versão
+
+- A IA **NÃO** deve executar nenhuma operação Git.
+- A IA **NÃO** deve sugerir commits, pushes, merges ou gerenciamento de ramificações.
+- A IA **NÃO** deve modificar o estado de controle de versão de nenhuma maneira.
+- Todas as ações de controle de versão são tratadas manualmente apenas pelo desenvolvedor.
+
+---
+
 ## 12. Regra de Ouro
 
 Se houver incerteza:
