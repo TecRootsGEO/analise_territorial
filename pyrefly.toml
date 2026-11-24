@@ -1,0 +1,9 @@
+preset = "basic"
+python-interpreter-path = ".venv_local/Scripts/python.exe"
+search-path = ["."]
+project-excludes = [
+  ".venv/**",
+  ".venv_local/**",
+  ".web_jobs/**",
+  "**/__pycache__/**",
+]

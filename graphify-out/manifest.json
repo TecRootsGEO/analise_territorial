@@ -1,0 +1,162 @@
+{
+  "F:\\GEO\\Demanda_greenpeace\\analise_sobreposicao.py": {
+    "mtime": 1795093228.0,
+    "ast_hash": "83727240ae0f26f4e98e26b4144b6d56",
+    "semantic_hash": "83727240ae0f26f4e98e26b4144b6d56"
+  },
+  "F:\\GEO\\Demanda_greenpeace\\interface_grafica.py": {
+    "mtime": 1795093186.0,
+    "ast_hash": "fc99f34f88a1ae3700b437125f7c5353",
+    "semantic_hash": "fc99f34f88a1ae3700b437125f7c5353"
+  },
+  "F:\\GEO\\Demanda_greenpeace\\web_app.py": {
+    "mtime": 1795021142.0,
+    "ast_hash": "1344b30aa964e56ac839222bb5c87353",
+    "semantic_hash": "1344b30aa964e56ac839222bb5c87353"
+  },
+  "F:\\GEO\\Demanda_greenpeace\\requirements.txt": {
+    "mtime": 1794942872.0,
+    "ast_hash": "9928758da9edcc5b504143436959ed14",
+    "semantic_hash": "9928758da9edcc5b504143436959ed14"
+  },
+  "F:\\GEO\\Demanda_greenpeace\\README.md": {
+    "mtime": 1795093228.0,
+    "ast_hash": "760e5638d2dc2064394610f232b00fa3",
+    "semantic_hash": "760e5638d2dc2064394610f232b00fa3"
+  },
+  "F:\\GEO\\Demanda_greenpeace\\guia_estilo.md": {
+    "mtime": 1790167392.0,
+    "ast_hash": "5e9bedce5ca623d31068328b6ab1d24b",
+    "semantic_hash": "5e9bedce5ca623d31068328b6ab1d24b"
+  },
+  "F:\\GEO\\Demanda_greenpeace\\interface.html": {
+    "mtime": 1795093324.0,
+    "ast_hash": "1d411231e84ffc991c53faa6df824713",
+    "semantic_hash": "1d411231e84ffc991c53faa6df824713"
+  },
+  "F:\\GEO\\Demanda_greenpeace\\.github\\instructions\\caveman-mode.instructions.md": {
+    "mtime": 1795010814.0,
+    "ast_hash": "7356539891e7fa0a868bee26fe839542",
+    "semantic_hash": "7356539891e7fa0a868bee26fe839542"
+  },
+  "F:\\GEO\\Demanda_greenpeace\\.github\\instructions\\graphify-install.instructions.md": {
+    "mtime": 1795010850.0,
+    "ast_hash": "54bfc08eeeb4619e8c72b1a39854b173",
+    "semantic_hash": "54bfc08eeeb4619e8c72b1a39854b173"
+  },
+  "F:\\GEO\\Demanda_greenpeace\\dados\\manualDadosSicorCompleto.pdf": {
+    "mtime": 1794939024.0,
+    "ast_hash": "05c49221e1e5dee2322b6b37a533f2d0",
+    "semantic_hash": "05c49221e1e5dee2322b6b37a533f2d0"
+  },
+  "F:\\GEO\\Demanda_greenpeace\\image\\infogeo.png": {
+    "mtime": 1775148892.0,
+    "ast_hash": "5aa54b6d894601a8b9c9d388b2985c13",
+    "semantic_hash": "5aa54b6d894601a8b9c9d388b2985c13"
+  },
+  "F:\\GEO\\Demanda_greenpeace\\image\\logo_bb.png": {
+    "mtime": 1790251578.0,
+    "ast_hash": "d8a91e511ec2bc9320efe016d0cbf611",
+    "semantic_hash": "d8a91e511ec2bc9320efe016d0cbf611"
+  },
+  "F:\\GEO\\Demanda_greenpeace\\image\\powerbi_logo.png": {
+    "mtime": 1790787666.0,
+    "ast_hash": "1116fcc7cffbb720a0d8cc59dc22a909",
+    "semantic_hash": "1116fcc7cffbb720a0d8cc59dc22a909"
+  },
+  "F:\\GEO\\Demanda_greenpeace\\image\\infogeo_old.png": {
+    "mtime": 1790248292.0,
+    "ast_hash": "b060cd3e15f94616c0572a2d7f2b3ead",
+    "semantic_hash": "b060cd3e15f94616c0572a2d7f2b3ead"
+  },
+  "F:\\GEO\\Demanda_greenpeace\\image\\background.png": {
+    "mtime": 1790277240.0,
+    "ast_hash": "0dcb2c2f43724a48304913b65b6ff47c",
+    "semantic_hash": "0dcb2c2f43724a48304913b65b6ff47c"
+  },
+  "F:\\GEO\\Demanda_greenpeace\\image\\background_old.png": {
+    "mtime": 1790250016.0,
+    "ast_hash": "afaa288ac1c4cf101e72517d032b3fd8",
+    "semantic_hash": "afaa288ac1c4cf101e72517d032b3fd8"
+  },
+  "F:\\GEO\\Demanda_greenpeace\\image\\consulta.png": {
+    "mtime": 1790248520.0,
+    "ast_hash": "2f0c9a0420d7c97daa425f3af700da2a",
+    "semantic_hash": "2f0c9a0420d7c97daa425f3af700da2a"
+  },
+  "F:\\GEO\\Demanda_greenpeace\\image\\ferramentas.png": {
+    "mtime": 1790248608.0,
+    "ast_hash": "7cc1f2aace66c5d4a00b273bf5f8f3d0",
+    "semantic_hash": "7cc1f2aace66c5d4a00b273bf5f8f3d0"
+  },
+  "F:\\GEO\\Demanda_greenpeace\\image\\geo.png": {
+    "mtime": 1779390512.0,
+    "ast_hash": "cb577762ff23d915766a8b67deb37fed",
+    "semantic_hash": "cb577762ff23d915766a8b67deb37fed"
+  },
+  "F:\\GEO\\Demanda_greenpeace\\image\\infogeo_img.png": {
+    "mtime": 1790248292.0,
+    "ast_hash": "b060cd3e15f94616c0572a2d7f2b3ead",
+    "semantic_hash": "b060cd3e15f94616c0572a2d7f2b3ead"
+  },
+  "F:\\GEO\\Demanda_greenpeace\\image\\satelite.png": {
+    "mtime": 1790248460.0,
+    "ast_hash": "7e73e06f51c84505ef6fdfe04aa1523d",
+    "semantic_hash": "7e73e06f51c84505ef6fdfe04aa1523d"
+  },
+  "F:\\GEO\\Demanda_greenpeace\\image\\valoracao.png": {
+    "mtime": 1790248394.0,
+    "ast_hash": "12900797dd2f0efd7bed5f6f93e4af88",
+    "semantic_hash": "12900797dd2f0efd7bed5f6f93e4af88"
+  },
+  "F:\\GEO\\Demanda_greenpeace\\image\\parecer_geo.png": {
+    "mtime": 1791305216.0,
+    "ast_hash": "d64e1d37e95ecb0b081e647eca8fd025",
+    "semantic_hash": "d64e1d37e95ecb0b081e647eca8fd025"
+  },
+  "F:\\GEO\\Demanda_greenpeace\\image\\busca_car.png": {
+    "mtime": 1791380566.0,
+    "ast_hash": "9d7d0826546f97fd51c2b5ca4e1ad06a",
+    "semantic_hash": "9d7d0826546f97fd51c2b5ca4e1ad06a"
+  },
+  "F:\\GEO\\Demanda_greenpeace\\image\\favicon\\android-chrome-192x192.png": {
+    "mtime": 1790265666.0,
+    "ast_hash": "cd28d6f9a472249d4f132586fbbe033c",
+    "semantic_hash": "cd28d6f9a472249d4f132586fbbe033c"
+  },
+  "F:\\GEO\\Demanda_greenpeace\\image\\favicon\\android-chrome-512x512.png": {
+    "mtime": 1790265666.0,
+    "ast_hash": "e6bc476ae131cbead54f7eabcbe36419",
+    "semantic_hash": "e6bc476ae131cbead54f7eabcbe36419"
+  },
+  "F:\\GEO\\Demanda_greenpeace\\image\\favicon\\apple-touch-icon.png": {
+    "mtime": 1790270206.0,
+    "ast_hash": "21d7bcee3be1932855c7455c1ab4ecb3",
+    "semantic_hash": "21d7bcee3be1932855c7455c1ab4ecb3"
+  },
+  "F:\\GEO\\Demanda_greenpeace\\image\\favicon\\favicon-16x16.png": {
+    "mtime": 1790270206.0,
+    "ast_hash": "901bf127a64497ec17989be1ea522527",
+    "semantic_hash": "901bf127a64497ec17989be1ea522527"
+  },
+  "F:\\GEO\\Demanda_greenpeace\\image\\favicon\\favicon-32x32.png": {
+    "mtime": 1790270206.0,
+    "ast_hash": "a372f29ab338bb0db60fb923cc50f383",
+    "semantic_hash": "a372f29ab338bb0db60fb923cc50f383"
+  },
+  "F:\\GEO\\Demanda_greenpeace\\image\\thumbnails\\painel3.png": {
+    "mtime": 1790868470.0,
+    "ast_hash": "9b73c2011001936bb475308b09ed6f9e",
+    "semantic_hash": "9b73c2011001936bb475308b09ed6f9e"
+  },
+  "F:\\GEO\\Demanda_greenpeace\\image\\thumbnails\\painel1.png": {
+    "mtime": 1790788634.0,
+    "ast_hash": "03b1f7bb8780f1ff0eaa93a618a277b3",
+    "semantic_hash": "03b1f7bb8780f1ff0eaa93a618a277b3"
+  },
+  "F:\\GEO\\Demanda_greenpeace\\image\\thumbnails\\painel2.png": {
+    "mtime": 1790868276.0,
+    "ast_hash": "22b5c060adc6be9686e71f6dbfba077c",
+    "semantic_hash": "22b5c060adc6be9686e71f6dbfba077c"
+  }
+}

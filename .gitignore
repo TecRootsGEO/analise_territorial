@@ -1,0 +1,25 @@
+# Dados geoespaciais e bases pesadas (excluídos do versionamento)
+/dados/
+
+# Arquivos temporários gerados em execução pela aplicação web
+.web_jobs/
+
+# Ambientes virtuais Python
+.venv/
+.venv_local/
+venv/
+env/
+
+# Cache e bytecode Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Variáveis de ambiente e credenciais
+.env
+.env.*
+!.env.example
+
+# Arquivos temporários do sistema operacional
+.DS_Store
+Thumbs.db
